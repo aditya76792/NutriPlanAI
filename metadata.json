@@ -1,0 +1,5 @@
+{
+  "name": "NutriPlan AI",
+  "description": "A smart meal planner that generates personalized weekly menus and grocery lists based on your dietary goals and available ingredients using Gemini AI.",
+  "requestFramePermissions": []
+}
